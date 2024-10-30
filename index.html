@@ -13,6 +13,20 @@
 		<meta name="keywords" content="" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 	</head>
+	<style>
+		/* 0 to 1150 */
+		.on-the-fly-behavior {
+		    width: 100% !important;
+		}
+		/* 1150 to X */
+		@media (min-width: 1150) { 
+		    .on-the-fly-behavior {   
+		        width: 80% !important;
+			margin-left: 108% !important;
+			margin-top: -20% !important;
+		    }
+		}
+	</style>
 	<body class="is-preload">
 
 		<!-- Wrapper -->
@@ -47,7 +61,9 @@
 						<header>
 							<h2>Some thoughts</h2>
 						</header>
-						<rssapp-wall style="width: 80%;margin-left: 108%;margin-top: -20%;" id="Vh1wHrMfVbZdSqeT"></rssapp-wall><script src="https://widget.rss.app/v1/wall.js" type="text/javascript" async></script>
+						<div class="on-the-fly-behavior">
+							<rssapp-wall id="Vh1wHrMfVbZdSqeT"></rssapp-wall><script src="https://widget.rss.app/v1/wall.js" type="text/javascript" async></script>
+						</div>
 						<div class="content">
 							<p><strong>Follow my RSS <a href="https://ficiverson.medium.com/feed"> posts </a></strong> from my blog</p>
 						</div>
