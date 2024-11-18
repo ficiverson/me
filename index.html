@@ -28,7 +28,12 @@
 		    }
 		}
 	</style>
-	<body class="is-preload">
+	<script>
+		function removeTitle() {
+		  $("iframe").contents().getElementsByClassName("rssapp-title-header").html('');
+		}
+	</script>
+	<body class="is-preload" onload="removeTitle()">
 
 		<!-- Wrapper -->
 			<div id="wrapper">
