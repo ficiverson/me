@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-baseURL = "https://ficiverson.github.io/me/"
+baseURL = "https://fernandosouto.dev/"
 # Title of your website (required).
 title = "Fernando Souto | AI architect"
 # Your theme name
