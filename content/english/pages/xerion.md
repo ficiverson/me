@@ -1,6 +1,8 @@
 ---
 title: "El reto de Xerión"
 meta_title: ""
+aliases:
+- /xerion.html
 description: "Esta página es una landing para el reto de Xerión"
 draft: false
 ---
