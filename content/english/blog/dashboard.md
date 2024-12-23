@@ -26,6 +26,34 @@ Azure Application Insights is a powerful tool for tracking the health, usage, an
 
 **Create metrics and visualizations:** Write queries for KPIs, then save them as parts of a shared workbook or dashboard.
 
+## Sending user_Id to App Insights
+
+To track user-specific metrics like unique users or top users by activity, you need to ensure ```user_Id``` is sent to Application Insights. Here’s how you can do it:
+
+**Set Up telemetry in your application:**
+
+For applications using the Application Insights SDK, enrich your telemetry data by setting the user_Id context.
+
+Example for .NET:
+```java
+var telemetryClient = new TelemetryClient();
+telemetryClient.Context.User.Id = "user123";
+telemetryClient.TrackTrace("Sample trace with user ID");
+```
+Example for JavaScript:
+```java
+appInsights.setAuthenticatedUserContext("user123"); 
+appInsights.trackTrace({ message: "Sample trace with user ID" });
+```
+
+**Verify the Data:**
+
+Check your traces in Application Insights to confirm that ```user_Id``` is being logged.
+
+**Modify Your KQL Queries:**
+
+Once ```user_Id``` is available in traces, you can use it in your queries to analyze user-specific data.
+
 ## Top KPIs to include in your dashboard
 
 ### Total users
