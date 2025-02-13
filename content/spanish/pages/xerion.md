@@ -1,5 +1,5 @@
 ---
-title: "The Xerion game"
+title: "El reto de Xerión"
 meta_title: ""
 aliases:
 - /xerion.html
@@ -7,37 +7,37 @@ description: "Esta página es una landing para el reto de Xerión"
 draft: false
 ---
 
-# The Xerión game
+# El reto de Xerión
 
-Welcome to Xerion game to test your knwoledge about A Coruña.
+Bienvenido al reto de Xerion tu juego sobre tu conocimiento de A Coruña.
 
 {{< image src="images/xerion/xerion.png" caption="" alt="alter-text" height="400" width="400" position="left" command="fill" option="q100" class="max-w-[600px] ml-0" title="image title"  webp="false" >}}
 
-# App iOS
+# App disponible iOS
 
 
 [{{< image src="images/xerion/appstore.png" caption="" alt="alter-text" height="" width="" position="left" command="fill" option="q100" class="max-w-[600px] ml-0" title="image title"  webp="false" >}}](https://apps.apple.com/us/app/xeri%C3%B3n/id1607101030)
 
-# App Android
+# App disponible Android
 
 [{{< image src="images/xerion/googleplay.png" caption="" alt="alter-text" height="" width="" position="left" command="fill" option="q100" class="max-w-[600px] ml-0" title="image title"  webp="false" >}}](https://play.google.com/store/apps/details?id=com.coruna.enjoy)
 
-# Some screenshots
+# Algunas pantallas de la app
 
 {{< slider dir="images/xerion/app" class="max-w-[400px] ml-0"  webp="true" command="Fit" option="" zoomable="true" >}}
 
-# Usage terms, privacy polie and software licenses.
+# Términos de uso, política de privacidad y licencias de software
 
-Here you can see the terms of use, privacy policy, and software licenses for the Xerión app.
+A continuación puedes ver los términos de uso, política de privacidad y licencias de software de la app Xerión.
 
-Terms and Conditions
-You can use the game as you wish, and you can even make your own version by modifying the source code that is available for modification here: https://github.com/ficiverson/wordle-flutter
+Términos y condiciones
+Puedes utilizar el juego como quieras e incluso puedes hacer tu propia versión si modificas el código fuente que está disponible para su modificación aquí https://github.com/ficiverson/wordle-flutter
 
-Privacy Policy
-The app does not track any user information and does not use the internet connection except to save data for Game Center and Play Games.
+Política de privacidad
+La app no rastrea ningún tipo de información del usuario y tampoco hace uso de la conexión a internet del mismo salvo para guardar los datos de Game Center y Play Games.
 
-Acknowledgments
-Thanks to the account https://mobile.twitter.com/xerionxerion for the app icon, which is based on their design of glorious Xerions that are scattered throughout the city.
+Agradecimientos
+Agradecimientos a la cuenta https://mobile.twitter.com/xerionxerion por el icono de la app que está basado en su diseño de gloriosos Xeriones que están por toda la ciudad.
 
 Licencias de uso de librerías
 cupertino_icons: ^1.0.2

@@ -1,0 +1,30 @@
+############# Navegación Espanish ##############
+
+# main menu
+[[main]]
+name = "Inicio"
+url = "/es/"
+weight = 1
+
+[[main]]
+name = "Blog"
+url = "/es/blog"
+weight = 2
+
+[[main]]
+name = "Sobre mí"
+url = "/es/about"
+weight = 3
+
+
+
+# footer menu
+[[footer]]
+name = "Sobre mí"
+url = "/es/about"
+weight = 1
+
+[[footer]]
+name = "Política de privacidad"
+url = "/es/privacy-policy"
+weight = 3

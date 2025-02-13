@@ -38,7 +38,7 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [navigation_button]
 enable = true
-label = "Try Xerion game"
+label = "Jugar a Xerion"
 link = "xerion"
 
 # search
@@ -63,7 +63,7 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
 keywords = ["Fernando Souto | AI architect"]
-description = "All my content all together"
+description = "Todo mi contenido junto"
 author = "Fernando Souto"
 twitter = "ficiverson"
 image = "images/og-image.png"
