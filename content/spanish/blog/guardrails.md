@@ -2,10 +2,11 @@
 title: "Guardrails para las LLMs: asegura un sistema de AI seguro y confiable para banco Loredo"
 meta_title: "Guardrails para las LLMs: asegura un sistema de AI seguro y confiable para banco Loredo"
 description: "Guardrails para las LLMs: asegura un sistema de AI seguro y confiable para banco Loredo"
-date: 2024-02-14T05:00:00Z
+date: 2025-02-14T05:00:00Z
 image: "/images/blog/guardrails/guardrails.jpeg"
 categories: ["AI"]
 author: "Fernando Souto"
+lang: "es"
 tags: ["guardrails", "agentic","secure","LLM","pydantic"]
 draft: false
 ---
