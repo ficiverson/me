@@ -300,7 +300,7 @@ def _get_description_prompt(self) -> PromptTemplate:
 
 ## El futuro de las noticias generadas por IA
 
-Este proyecto es solo el comienzo. Voy más allá integrando personalización en tiempo real, soporte multilingüe y funciones interactivas. ¿Qué es lo más emocionante? Llevaré esta tecnología a **CUAC FM, una emisora comunitaria de A Coruña**. Las noticias impulsadas por IA pronto llegarán a las ondas de FM, **fusionando los mundos digital y analógico** de una manera que no se ha hecho antes, convirtiéndolo probablemente en el **primer programa de noticias generado por IA en la radio FM en España**.
+Este proyecto es solo el comienzo. Voy más allá integrando personalización en tiempo real, soporte multilingüe y funciones interactivas. ¿Qué es lo más emocionante? Llevar esta tecnología a **CUAC FM, una emisora comunitaria de A Coruña**. Las noticias impulsadas por IA llegaron el 11/04/2025 a las ondas de FM marcando un hito histórico para la radiodifusión española, **fusionando los mundos digital y analógico** de una manera que no se ha hecho antes, convirtiéndolo probablemente en el **primer programa de noticias generado por IA en la radio FM en España**.
 
 Un aspecto clave de este flujo de trabajo es la **intervención humana**. Aunque la IA automatiza la mayor parte del proceso, **el pódcast no se publica automáticamente**. Personalmente reviso y apruebo cada guion antes de generar el episodio final. Esta decisión de "publicar o no publicar" garantiza que cada episodio sea preciso, contextualmente relevante y alineado con mi visión de un periodismo impulsado por **IA responsable.**
 

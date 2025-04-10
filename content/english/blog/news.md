@@ -300,7 +300,7 @@ def _get_description_prompt(self) -> PromptTemplate:
 
 # The future of AI-generated radio news
 
-This project is just the beginning. I’m taking it further by integrating real-time personalization, multi-language support, and interactive features. But the most exciting part? I’m making this a real milestone by bringing it to **CUAC FM, a community radio station in A Coruña**. AI-powered news will soon hit FM waves, **merging the digital and analog worlds** in a way that hasn’t been done before—most likely making this the **first AI-generated news broadcast on FM radio in Spain**.
+This project is just the beginning. I’m taking it further by integrating real-time personalization, multi-language support, and interactive features. But the most exciting part? I’m making this a real milestone by bringing it to **CUAC FM, a community radio station in A Coruña**. AI-powered news was launched on 11/04/2025 via FM waves, **merging the digital and analog worlds** in a way that hasn’t been done before—most likely making this the **first AI-generated news broadcast on FM radio in Spain**.
 
 One key aspect of this workflow is **human-in-the-loop** intervention. While the AI automates most of the process, **the podcast isn’t uploaded automatically**. I personally review and approve each script before generating the final episode. This go or no-go decision ensures that every episode is accurate, contextually relevant, and aligned with my vision for **responsible AI-driven journalism.**
 
