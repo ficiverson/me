@@ -1,7 +1,7 @@
 ---
-title: "Playing with MCP and the Coruña Buses"
-meta_title: "Playing with MCP and the Coruña Buses"
-description: "Playing with MCP and the Coruña Buses"
+title: "Teaching an LLM to ride the bus (Coruña edition)"
+meta_title: "Teaching an LLM to ride the bus (Coruña edition)"
+description: "Teaching an LLM to ride the bus (Coruña edition)"
 date: 2025-04-20T05:00:00Z
 image: "/images/blog/buses/intro.jpeg"
 categories: ["AI"]

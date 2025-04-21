@@ -1,7 +1,7 @@
 ---
-title: "Jugando con MCP y los buses de Coruña"
-meta_title: "Jugando con MCP y los buses de Coruña"
-description: "Jugando con MCP y los buses de Coruña"
+title: "Cómo una IA aprendió a moverse en bus por A Coruña"
+meta_title: "Cómo una IA aprendió a moverse en bus por A Coruña"
+description: "Cómo una IA aprendió a moverse en bus por A Coruña"
 date: 2025-04-20T05:00:00Z
 image: "/images/blog/buses/intro.jpeg"
 categories: ["AI"]
