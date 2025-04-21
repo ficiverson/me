@@ -22,6 +22,7 @@ En este ejemplo se le pregunta al modelo:
 Y devuelve directamente los tiempos de llegada desde el backend de Bus Coruña.
 
 [Conversación completa en Claude](https://claude.ai/share/6dbf72ea-921c-40b6-a593-4c6c8dcf95c5)
+
 ![Screenshot de Claude Desktop app](/images/blog/buses/calude-conversation.png)
 
 En este ejemplo se le pregunta al modelo:
@@ -31,6 +32,7 @@ En este ejemplo se le pregunta al modelo:
 Lo más interesante es que a priori lo monté para solo decir los datos de una parada pero la IA es capaz de hacer itinerarios sin que yo lo hubiera programado dado que busca origen y destino automágicamente invocando varias veces las tools para su cálculo.
 
 [Conversación completa en Claude](https://claude.ai/share/dccbf7e7-66ed-4492-b8bc-a140cff63eae)
+
 ![Screenshot de Claude Desktop app](/images/blog/buses/claude-conversation-complex.png)
 
 ## Detalles técnicos

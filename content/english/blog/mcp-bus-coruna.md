@@ -22,6 +22,7 @@ In this example, the model is asked:
 And it returns the arrival times directly from the Bus Coruña backend.
 
 [Conversation in Claude](https://claude.ai/share/6dbf72ea-921c-40b6-a593-4c6c8dcf95c5)
+
 ![Screenshot from Claude Desktop app](/images/blog/buses/calude-conversation.png)
 
 In this example, the model is asked:
@@ -31,6 +32,7 @@ In this example, the model is asked:
 What’s most interesting is that I originally set it up just to provide data for a single stop, but the AI is able to generate full itineraries without me having programmed that behavior — it automatically finds the origin and destination, invoking the tools multiple times to calculate the route.
 
 [Conversation in Claude](https://claude.ai/share/dccbf7e7-66ed-4492-b8bc-a140cff63eae)
+
 ![Screenshot from Claude Desktop app](/images/blog/buses/claude-conversation-complex.png)
 
 ## Technical details
