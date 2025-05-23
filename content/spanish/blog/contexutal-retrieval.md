@@ -21,9 +21,9 @@ Lo que comenzó como una curiosidad se convirtió en un proyecto de investigaci�
 
 **Report interactivo:** [Live Demo Site](https://ficiverson.github.io/contextual-retrieval-langchain-hybrid-search/ragas_report.html)
 
-Pero antes, déjame contarte qué hace que la recuperación contextual sea un avance tan importante y por qué los sistemas RAG tradicionales han estado dejando rendimiento sobre la mesa.
+Pero antes, déjame contarte qué hace que la recuperación contextual sea un avance tan importante y por qué los sistemas RAG tradicionales tienen una performance peor.
 
-La Generación Aumentada por Recuperación (RAG) ha revolucionado la forma en que construimos aplicaciones de IA capaces de acceder y razonar sobre grandes bases de conocimiento. Sin embargo, los sistemas RAG tradicionales a menudo enfrentan una limitación crítica: **la pérdida de contexto durante la recuperación**. Aquí es donde entra la recuperación contextual: un enfoque revolucionario que mejora significativamente la precisión de la recuperación y la calidad de la generación posterior.
+El RAG ha revolucionado la forma en que construimos aplicaciones de IA capaces de acceder y razonar sobre grandes bases de conocimiento. Sin embargo, los sistemas RAG tradicionales a menudo enfrentan una limitación crítica: **la pérdida de contexto durante la recuperación**. Aquí es donde entra la recuperación contextual: un enfoque revolucionario que mejora significativamente la precisión de la recuperación y la calidad de la generación posterior.
 
 ## El problema del RAG tradicional
 
@@ -33,10 +33,10 @@ Considera este escenario: se recupera un fragmento que dice "La nueva política 
 
 ## ¿Qué es la recuperación contextual?
 
-La recuperación contextual mejora el enfoque tradicional de RAG al enriquecer cada fragmento de documento con contexto relevante antes de su almacenamiento y recuperación. Este contexto puede incluir:
+La recuperación contextual mejora el enfoque tradicional del RAG al enriquecer cada fragmento de documento con contexto relevante antes de su almacenamiento y recuperación. Este contexto puede incluir:
 
 - Metadatos del documento (título, autor, fecha, fuente)
-- Resúmenes del contenido circundante
+- Resúmenes del contenido
 - Encabezados de sección y estructura del documento
 - Entidades clave y relaciones
 - Información contextual personalizada según las necesidades del dominio
@@ -177,7 +177,7 @@ La recuperación contextual sí introduce ciertos costos adicionales:
 - **Cómputo:** Generar información contextual añade tiempo de procesamiento
 - **Memoria:** Los embeddings más grandes y los datos contextuales aumentan el uso de memoria
 
-Sin embargo, la mejora en la precisión y la experiencia del usuario generalmente justifica estos costos, especialmente en aplicaciones en producción donde la calidad de la recuperación impacta directamente en la satisfacción del usuario.
+Sin embargo, la mejora en la precisión y la experiencia del usuario generalmente justifica estos costes, especialmente en aplicaciones en producción donde la calidad de la recuperación impacta directamente en la satisfacción del usuario.
 
 ## Rendimiento en el mundo real: resultados del caso de estudio de CUAC FM
 
@@ -220,7 +220,7 @@ Estos no son solo indicadores abstractos: se traducen en beneficios reales y tan
 El experimento con CUAC FM reveló varias ideas clave:
 
 - **El contexto importa más en consultas complejas:** las preguntas simples y fácticas mostraron mejoras modestas, mientras que las consultas analíticas complejas mejoraron en más del 30 % en algunos casos.
-- **Complejidad de los documentos financieros:** los informes anuales contienen información interconectada donde el contexto es crucial—un campo de pruebas perfecto para la recuperación contextual.
+- **Complejidad de los documentos:** los informes anuales contienen información interconectada donde el contexto es crucial—un campo de pruebas perfecto para la recuperación contextual.
 - **Beneficios compuestos:** a medida que mejoraban los indicadores individuales, la experiencia del usuario mejoraba exponencialmente gracias al efecto multiplicador de una recuperación más precisa.
 - **Ganancias en consistencia:** no solo mejoró el rendimiento promedio, sino que disminuyó la variabilidad—resultados más consistentes y fiables entre diferentes tipos de consultas.
 

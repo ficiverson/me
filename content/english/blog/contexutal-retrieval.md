@@ -1,7 +1,7 @@
 ---
-title: "Transforming RAG Systems with Enhanced Context (a langchain implementation)"
-meta_title: "Transforming RAG Systems with Enhanced Context (a langchain implementation)"
-description: "Transforming RAG Systems with Enhanced Context (a langchain implementation)"
+title: "Transforming RAG systems with enhanced context (a langchain implementation)"
+meta_title: "Transforming RAG systems with enhanced context (a langchain implementation)"
+description: "Transforming RAG systems with enhanced context (a langchain implementation)"
 date: 2025-05-21T05:00:00Z
 image: "/images/blog/contextual_retrieval/intro.jpeg"
 categories: ["AI"]
@@ -221,7 +221,7 @@ These aren't just abstract metrics—they translate to real-world benefits:
 The CUAC FM experiment revealed several critical insights:
 
 - **Context matters most for complex queries:** Simple factual questions saw modest improvements, while complex analytical queries saw improvements of 30%+ in some cases
-- **Financial document complexity:** Annual reports contain interconnected information where context is crucial—perfect testing ground for contextual retrieval
+- **Annual report document complexity:** Annual reports contain interconnected information where context is crucial—perfect testing ground for contextual retrieval
 - **Compound benefits:** As individual metrics improved, the overall user experience improved exponentially due to the multiplicative effect of better retrieval
 - **Consistency gains:** Not only did average performance improve, but the variance decreased—more consistent, reliable results across different query types
 
