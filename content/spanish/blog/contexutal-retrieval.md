@@ -10,6 +10,13 @@ tags: ["cluade","contextual retrieval","bm25","hybric", "vector search"]
 draft: false
 ---
 
+**Audio del artítculo:**
+
+<audio controls>
+  <source src="/audios/contextual_retrieval_es.wav" type="audio/wav">
+  Your browser does not support the audio element.
+</audio>
+
 Hace poco me topé con una fascinante [publicación](https://www.anthropic.com/news/contextual-retrieval) de Anthropic sobre la recuperación contextual, ¡y de inmediato me intrigó su potencial para revolucionar los sistemas RAG! El concepto era tan convincente que decidí ponerlo a prueba con un experimento del mundo real utilizando 10 años de informes anuales de CUAC FM.
 Lo que comenzó como una curiosidad se convirtió en un proyecto de investigación exhaustivo. Elaboré 30 preguntas cuidadosamente diseñadas junto con 30 respuestas de referencia revisadas por mí para evaluar rigurosamente si la recuperación contextual realmente cumple lo que promete. ¿El resultado? ¡Absolutamente transformador!
 

@@ -9,6 +9,12 @@ author: "Fernando Souto"
 tags: ["cluade","contextual retrieval","bm25","hybric", "vector search"]
 draft: false
 ---
+**Audio of the post:**
+
+<audio controls>
+  <source src="/audios/contextual_retrieval_en.wav" type="audio/wav">
+  Your browser does not support the audio element.
+</audio>
 
 I recently stumbled upon Anthropic's fascinating [post](https://www.anthropic.com/news/contextual-retrieval) about contextual retrieval and was immediately intrigued by the potential to revolutionize RAG systems! The concept was so compelling that I decided to put it to the test with a real-world experiment using 10 years of annual reports from CUAC FM.
 What started as curiosity turned into a comprehensive research project. I crafted 30 carefully designed questions paired with 30 human-reviewed reference answers to rigorously evaluate whether contextual retrieval truly delivers on its promises. The results? Absolutely game-changing!
