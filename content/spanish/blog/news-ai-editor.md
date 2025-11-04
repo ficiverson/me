@@ -13,7 +13,7 @@ draft: false
 **Audio del artítculo:**
 
 <audio controls>
-  <source src="/audios/middleware_es.wav" type="audio/wav">
+  <source src="/audios/middleware_es.mp3" type="audio/mp3">
   Your browser does not support the audio element.
 </audio>
 

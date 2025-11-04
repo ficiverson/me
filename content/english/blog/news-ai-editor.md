@@ -13,7 +13,7 @@ draft: false
 **Audio of the post:**
 
 <audio controls>
-  <source src="/audios/middleware_en.wav" type="audio/wav">
+  <source src="/audios/middleware_en.mp3" type="audio/mp3">
   Your browser does not support the audio element.
 </audio>
 
