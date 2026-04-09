@@ -30,9 +30,7 @@ El cambio fundamental que introduce skills-forge es tratar las skills de IA de l
 
 Esto refleja lo que npm hizo por JavaScript o pip por Python. La diferencia es que el artefacto transporta comportamiento ejecutable de IA en lugar de código.
 
-```
-Crear una vez  →  Empaquetar en .skillpack  →  Publicar en registry  →  Instalar en cualquier plataforma
-```
+![Workflow](/images/blog/babel/workflow-es.png)
 
 El formato es Markdown puro (`SKILL.md`), siguiendo el estándar abierto **Agent Skills**. Cualquier herramienta agéntica que hable ese estándar — Claude Code, Gemini CLI, OpenAI Codex, VS Code Copilot — puede consumirlo directamente. Sin traducción. Sin conversión. El mismo archivo.
 

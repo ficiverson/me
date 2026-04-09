@@ -29,9 +29,7 @@ The fundamental shift skills-forge introduces is treating AI skills the way mode
 
 This mirrors what npm did for JavaScript or pip for Python. The difference is that the artifact carries executable AI behavior rather than code.
 
-```
-Author once  →  Pack into .skillpack  →  Publish to registry  →  Install on any platform
-```
+![Workflow](/images/blog/babel/workflow-en.png)
 
 The format is plain Markdown (`SKILL.md`), following the open **Agent Skills standard**. Any agentic tool that speaks the standard — Claude Code, Gemini CLI, OpenAI Codex, VS Code Copilot — can consume it directly. No translation. No conversion. The same file.
 
