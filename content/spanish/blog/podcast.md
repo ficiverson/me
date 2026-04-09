@@ -6,7 +6,7 @@ date: 2024-11-05T05:00:00Z
 image: "/images/blog/podcast/podcast.jpg"
 categories: ["AI"]
 author: "Fernando Souto"
-lang: "es"
+language: "es"
 tags: ["Podcast","NotebookLM", "Langchain"]
 draft: false
 ---

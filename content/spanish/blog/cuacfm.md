@@ -6,7 +6,7 @@ date: 2020-03-14T08:00:00Z
 image: "/images/blog/cuacfm/old_iphone.png"
 categories: ["Architecture"]
 author: "Fernando Souto"
-lang: "es"
+language: "es"
 tags: ["CUAC FM", "Android", "iOS", "Flutter", "Mobile"]
 draft: false
 ---

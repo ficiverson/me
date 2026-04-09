@@ -6,7 +6,7 @@ date: 2024-10-30T05:00:00Z
 image: "/images/blog/voice/voice.jpg"
 categories: ["AI"]
 author: "Fernando Souto"
-lang: "es"
+language: "es"
 tags: ["AI", "langgraph", "Langchain", "Neo4j","Voice Model"]
 draft: false
 ---

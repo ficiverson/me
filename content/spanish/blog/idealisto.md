@@ -6,7 +6,7 @@ date: 2024-11-19T05:00:00Z
 image: "/images/blog/idealisto/idealisto.webp"
 categories: ["AI"]
 author: "Fernando Souto"
-lang: "es"
+language: "es"
 tags: ["langgraph", "Tavily","Idealista", "LLM"]
 draft: false 
 ---

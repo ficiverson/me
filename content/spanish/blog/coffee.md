@@ -6,7 +6,7 @@ date: 2024-11-04T05:00:00Z
 image: "/images/blog/coffee/coffee.webp"
 categories: ["AI"]
 author: "Fernando Souto"
-lang: "es"
+language: "es"
 tags: ["RAG", "Graph Database", "Neo4j","LLM", "Langchain"]
 draft: false
 ---

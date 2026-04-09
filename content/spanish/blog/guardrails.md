@@ -6,7 +6,7 @@ date: 2025-02-14T05:00:00Z
 image: "/images/blog/guardrails/guardrails.jpeg"
 categories: ["AI"]
 author: "Fernando Souto"
-lang: "es"
+language: "es"
 tags: ["guardrails", "agentic","secure","LLM","pydantic"]
 draft: false
 ---

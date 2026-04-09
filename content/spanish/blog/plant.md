@@ -6,7 +6,7 @@ date: 2024-11-09T05:00:00Z
 image: "/images/blog/plant/plant.webp"
 categories: ["AI"]
 author: "Fernando Souto"
-lang: "es"
+language: "es"
 tags: ["plant analyzer","OpenAI", "Gardentech","Plant care"]
 draft: false 
 ---

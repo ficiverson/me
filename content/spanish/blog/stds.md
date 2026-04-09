@@ -6,7 +6,7 @@ date: 2021-10-23T08:00:00Z
 image: "/images/blog/stds/risco1.png"
 categories: ["Architecture"]
 author: "Fernando Souto"
-lang: "es"
+language: "es"
 tags: ["Flutter", "STD", "Contraception", "Software Development Case","App"]
 draft: false
 ---

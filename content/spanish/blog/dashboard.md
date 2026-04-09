@@ -6,7 +6,7 @@ date: 2024-12-22T05:00:00Z
 image: "/images/blog/dashboard/dashboard.jpeg"
 categories: ["Dashboard"]
 author: "Fernando Souto"
-lang: "es"
+language: "es"
 tags: ["dashboard", "azure","LLM"]
 draft: false
 ---
