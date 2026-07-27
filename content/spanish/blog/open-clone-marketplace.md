@@ -1,6 +1,6 @@
 ---
 title: "Open Clone Marketplace: una tienda de apps que de verdad son tuyas"
-meta_title: "Cómo creé un trivial generado por IA"
+meta_title: "Open Clone Marketplace: una tienda de apps que de verdad son tuyas"
 description: "Un catálogo de apps clónicas open source que cualquiera puede desplegar en su propia cuenta con un solo prompt. Tus datos, tu instancia, sin dependencia de proveedores."
 date: 2026-07-25T05:00:00Z
 image: "images/blog/open-market/clone-market-hero-es.png"
